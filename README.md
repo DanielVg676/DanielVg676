@@ -81,7 +81,7 @@ Me interesa la ingeniería backend, las arquitecturas distribuidas y las tecnolo
 
 ## En qué he trabajado
 
-<details open>
+<details>
 <summary><b>Eter — SaaS de gestión clínica</b> · <i>en producción</i></summary>
 
 <br>
@@ -123,23 +123,15 @@ Backend de una plataforma de telemetría en tiempo real, con un servicio indepen
 
 <div align="center">
 
-<!-- Light mode -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DanielVg676&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DanielVg676&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000" />
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielVg676&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000" alt="GitHub Stats" />
-</picture>
+![Overview](https://github.com/DanielVg676/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
+![Overview](https://github.com/DanielVg676/github-stats/blob/generated/overview.svg#gh-light-mode-only)
+![Languages](https://github.com/DanielVg676/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![Languages](https://github.com/DanielVg676/github-stats/blob/generated/languages.svg#gh-light-mode-only)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DanielVg676&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=DanielVg676&hide_border=true&background=00000000&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=888888" />
   <img src="https://streak-stats.demolab.com?user=DanielVg676&hide_border=true&background=00000000&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=888888" alt="GitHub Streak" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVg676&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVg676&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVg676&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000" alt="Top Languages" />
 </picture>
 
 </div>
