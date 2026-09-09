@@ -4,12 +4,8 @@
 
 `Durango, México`
 
-<a href="https://www.linkedin.com/in/daniel-villarreal-995190340/">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:dv956543@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<a href="https://www.linkedin.com/in/daniel-villarreal-995190340/"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:dv956543@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <img src="https://komarev.com/ghpvc/?username=DanielVg676&style=flat-square&color=1a1a1a&label=Profile+views" alt="Profile views" />
 
 </div>
@@ -150,12 +146,8 @@ Backend de una plataforma de telemetría en tiempo real, con un servicio indepen
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/daniel-villarreal-995190340/">
-  <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:dv956543@gmail.com">
-  <img src="https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-</a>
+<a href="https://www.linkedin.com/in/daniel-villarreal-995190340/"><img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:dv956543@gmail.com"><img src="https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 `Español (nativo)` · `Inglés (B2 certificado)`
 
