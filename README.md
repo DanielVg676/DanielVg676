@@ -1,102 +1,162 @@
-# Hola, soy Daniel Villarreal 👋
+<div align="center">
 
-**Full Stack Developer** · Durango, México
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=Daniel+Villarreal;Full+Stack+Developer;Backend+Engineering+%26+Distributed+Systems;Cloud+%26+Serverless+Architectures" alt="Daniel Villarreal" />
 
-Construyo sistemas backend y aplicaciones full stack que llegan a producción. Actualmente desarrollo un SaaS de gestión clínica en uso por clínicas reales, y anteriormente construí un sistema de tickets de incidencias que opera dentro de Bio Pappel.
+`Durango, México`
+
+<a href="https://www.linkedin.com/in/daniel-villarreal-995190340/">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:dv956543@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=DanielVg676&style=flat-square&color=1a1a1a&label=Profile+views" alt="Profile views" />
+
+</div>
+
+---
+
+Construyo sistemas backend y aplicaciones full stack que **llegan a producción**. Actualmente desarrollo un SaaS de gestión clínica en uso por clínicas reales, y anteriormente construí un sistema de tickets de incidencias que opera dentro de Bio Pappel.
 
 Me interesa la ingeniería backend, las arquitecturas distribuidas y las tecnologías cloud.
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 **Lenguajes**
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a1a?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=white)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-1a1a1a?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1a1a1a?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a1a?style=flat-square&logo=fastapi&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-1a1a1a?style=flat-square&logo=prisma&logoColor=white)
 
 **Frontend**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1a1a1a?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-1a1a1a?style=flat-square&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-1a1a1a?style=flat-square&logo=vite&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-1a1a1a?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-1a1a1a?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **Bases de datos**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-1a1a1a?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-1a1a1a?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-1a1a1a?style=flat-square&logo=redis&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1a1a1a?style=flat-square&logo=supabase&logoColor=white)
 
 **APIs y seguridad**
 
-![REST](https://img.shields.io/badge/REST_API-005571?style=flat)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat&logo=socketdotio&logoColor=white)
-![SSE](https://img.shields.io/badge/Server_Sent_Events-FF6C37?style=flat)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=white)
+![REST](https://img.shields.io/badge/REST_API-1a1a1a?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-1a1a1a?style=flat-square&logo=socketdotio&logoColor=white)
+![SSE](https://img.shields.io/badge/Server_Sent_Events-1a1a1a?style=flat-square)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-1a1a1a?style=flat-square&logo=rabbitmq&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-1a1a1a?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-1a1a1a?style=flat-square&logo=zod&logoColor=white)
 
 **Infraestructura y testing**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat&logo=cloudflare&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-1a1a1a?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1a1a1a?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare_R2-1a1a1a?style=flat-square&logo=cloudflare&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-1a1a1a?style=flat-square&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-1a1a1a?style=flat-square&logo=jest&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-1a1a1a?style=flat-square&logo=selenium&logoColor=white)
 
 **Arquitectura y prácticas**
 
-Microservicios · Arquitectura hexagonal · Multi-tenant · Serverless · Row-Level Security (RLS) · RBAC · SOLID · TDD · Scrum
+`Microservicios` · `Arquitectura hexagonal` · `Multi-tenant` · `Serverless` · `Row-Level Security` · `RBAC` · `SOLID` · `TDD` · `Scrum`
 
 ---
 
-## 🚀 En qué he trabajado
+## En qué he trabajado
 
-**Eter — SaaS de gestión clínica** · *en producción*
+<details open>
+<summary><b>Eter — SaaS de gestión clínica</b> · <i>en producción</i></summary>
+
+<br>
+
 Plataforma multi-tenant para clínicas: agendamiento de citas, expediente clínico electrónico conforme a la normativa mexicana, y facturación. Arquitectura hexagonal con Row-Level Security en Supabase (PostgreSQL) y Prisma, almacenamiento en Cloudflare R2, despliegue serverless con CI/CD y TDD.
 
-**Sistema de tickets de incidencias — Bio Pappel** · *en operación*
+</details>
+
+<details>
+<summary><b>Sistema de tickets de incidencias — Bio Pappel</b> · <i>en operación</i></summary>
+
+<br>
+
 Sistema de gestión de incidencias diseñado y desarrollado de forma independiente. React + Vite en el frontend, Node.js + Express en el backend, autenticación con JWT y refresh tokens, RBAC, chat y actualizaciones en tiempo real con WebSockets. Migración de datos legados de Excel a SQL y despliegue on-premises.
 
-**Plataforma de gestión ganadera multi-tenant** · *Mención honorífica y premio de $10,000 MXN*
+</details>
+
+<details>
+<summary><b>Plataforma de gestión ganadera multi-tenant</b> · <i>Mención honorífica y premio de $10,000 MXN</i></summary>
+
+<br>
+
 Backend de una plataforma de telemetría en tiempo real, con un servicio independiente en Python para ingesta y procesamiento usando Redis y PostgreSQL, REST APIs y Server-Sent Events. Aislamiento de datos entre organizaciones vía RBAC y RLS.
 
----
-
-## 📜 Certificaciones
-
-- AWS Academy Graduate — Cloud Foundations
-- Cisco — Linux Essentials
-- MongoDB University — CRUD, Relational to Document Modeling, Schema Design Patterns
-- AI Programming Bootcamp, Metaphorce (50 h)
+</details>
 
 ---
 
-## 📊 GitHub
+## Certificaciones
 
-![Stats](https://github-readme-stats.vercel.app/api?username=DanielVg676&show_icons=true&hide_border=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVg676&layout=compact&hide_border=true&theme=default)
+- **AWS Academy Graduate** — Cloud Foundations
+- **Cisco** — Linux Essentials
+- **MongoDB University** — CRUD, Relational to Document Modeling, Schema Design Patterns
+- **AI Programming Bootcamp**, Metaphorce (50 h)
 
 ---
 
-## 📫 Contacto
+## Progreso en GitHub
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielvg)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:dv956543@gmail.com)
+<div align="center">
 
-Español (nativo) · Inglés (B2 certificado)
+<!-- Light mode -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=DanielVg676&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=DanielVg676&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielVg676&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=000000&text_color=000000&icon_color=000000" alt="GitHub Stats" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DanielVg676&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=DanielVg676&hide_border=true&background=00000000&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=888888" />
+  <img src="https://streak-stats.demolab.com?user=DanielVg676&hide_border=true&background=00000000&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=888888" alt="GitHub Streak" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVg676&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=ffffff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVg676&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielVg676&layout=compact&hide_border=true&bg_color=00000000&title_color=000000&text_color=000000" alt="Top Languages" />
+</picture>
+
+</div>
+
+---
+
+## Contacto
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/daniel-villarreal-995190340/">
+  <img src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:dv956543@gmail.com">
+  <img src="https://img.shields.io/badge/Email-1a1a1a?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+`Español (nativo)` · `Inglés (B2 certificado)`
+
+</div>
