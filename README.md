@@ -16,9 +16,11 @@
 
 ---
 
-Construyo sistemas backend y aplicaciones full stack que **llegan a producción**. Actualmente desarrollo un SaaS de gestión clínica en uso por clínicas reales, y anteriormente construí un sistema de tickets de incidencias que opera dentro de Bio Pappel.
+Desarrollador full stack con foco en backend. Antes que eso, fui atleta de alto rendimiento, y esa disciplina no se fue: sigo entrenando, y la misma constancia con la que perseguía una marca es la que aplico a cada meta que me propongo. La resiliencia, para mí, es un hábito más que un discurso.
 
-Me interesa la ingeniería backend, las arquitecturas distribuidas y las tecnologías cloud.
+Lo que me mueve a construir software es el proceso y lo gratificante que es ver una solución propia funcionando y resolviendo problemas reales. Disfruto los retos que obligan a pensar fuera de la caja, y creo que las mejores ideas nacen del diálogo: escucho, busco puntos de vista distintos a los míos y los uso para ampliar el panorama.
+
+Fuera del código, me vas a encontrar entrenando o cocinando.
 
 ---
 
