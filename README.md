@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=Daniel+Villarreal;Full+Stack+Developer;Backend+Engineering+%26+Distributed+Systems;Cloud+%26+Serverless+Architectures" alt="Daniel Villarreal" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=26&pause=1000&color=808080&center=true&vCenter=true&width=850&height=50&lines=Daniel+Villarreal;Full+Stack+Developer;Backend+Engineering+%26+Distributed+Systems;Cloud+%26+Serverless+Architectures" alt="Daniel Villarreal" />
 
 `Durango, México`
 
@@ -132,6 +132,12 @@ Backend de una plataforma de telemetría en tiempo real, con un servicio indepen
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=DanielVg676&hide_border=true&background=00000000&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
   <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=DanielVg676&hide_border=true&background=00000000&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=888888" />
   <img src="https://streak-stats.demolab.com?user=DanielVg676&hide_border=true&background=00000000&stroke=000000&ring=000000&fire=000000&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=888888" alt="GitHub Streak" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DanielVg676/DanielVg676/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DanielVg676/DanielVg676/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/DanielVg676/DanielVg676/output/github-snake.svg" alt="Contribution snake animation" />
 </picture>
 
 </div>
